@@ -1,0 +1,17 @@
+
+body {
+  margin: 0px 0px
+}
+.container {
+  width: 1650px;
+  height:900px;
+  background-image: url("https://scontent-los2-1.xx.fbcdn.net/v/t1.0-9/35431169_1725571377510779_3803552612758847488_n.jpg?_nc_cat=109&oh=6d5af52be9f5d89b8ad47fef1ad2de9c&oe=5C16B438");
+  background-repeat: no-repeat;
+  background-size: cover; 
+}
+
+.darken-overlay {
+  width: 100%;
+  height: 100%;
+  background:linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ),url(images/coffee-2608864_1280.jpg) center no-repeat;
+}
